@@ -28,10 +28,6 @@ Verified how VPNs mask public IP addresses and tested browsing experience differ
 ### 🔎 Network Behavior Observation
 Compared IP data before and after VPN activation. Noted how location-based content changed depending on the VPN server used. Practiced secure tunneling from cloud-based environments and personal devices.
 
----
-
-## 🖼️ Screenshots  
-*(Insert screenshots showing ProtonVPN interface, IP address before/after, VPN status in VM, and localized website examples)*
 
 ---
 
